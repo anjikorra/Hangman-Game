@@ -1,1 +1,1 @@
-## Best game in to play the and guess the word in python
+## Best game to play the and guess the word in python
